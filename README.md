@@ -1,4 +1,5 @@
-# README for IPL Matches Data Analysis
+# IPL Matches Data Analysis (2008 to 2022)
+![image](https://github.com/user-attachments/assets/4dacd514-47b3-4db4-9f13-6d72f0993d6f)
 
 ## Project Overview
 
